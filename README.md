@@ -8,7 +8,7 @@ Stanford CS193p Fall 2013-2014 Attributor project
 
 | title      | Description| code        | 
 |:-----------|:-----------|------------:|
-|End of Lecture 5| [link](https://github.com/HaeSeongPark/matchismo-2013-14/blob/master/Description/End%20of%20Lecture%202.md)   |   [link](https://github.com/HaeSeongPark/Attributor/tree/end_of_lecture5)|
+|End of Lecture 5| [link](https://github.com/HaeSeongPark/Attributor/blob/master/Description/End%20of%20Lecture%205.md)   |   [link](https://github.com/HaeSeongPark/Attributor/tree/end_of_lecture5)|
 |End of Lecture 6| []()   |   []()|
 |End of Lecture 9| []()   |   []()|
 
